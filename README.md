@@ -8,7 +8,7 @@ Plano de estudos para Java - Links e dicas para estudos
 - Ambiente de desenvolvimento Java - [acesse o curso](https://web.dio.me/course/configurando-ambiente-de-desenvolvimento-java-no-linux/learning/0668bbda-e32e-44bc-9100-d9dd781bdf8f)
 - Dominando IDEs com Java - [acesse o curso](https://web.dio.me/course/dominando-ides-java/learning/b0f1ae39-6af7-4a2c-8fc2-c73ae8463c84)
 
- - Tasks para continuar evoluindo:
+ <h1>- Tasks para continuar evoluindo:</h1>
 
  - [X] Começar a estudar Java
  - [ ] Assista ao curso
