@@ -10,7 +10,7 @@ Plano de estudos para Java - Links e dicas para estudos
 
  - Tasks para continuar evoluindo:
 
- - [x]Começar a estudar Java
+ - [X] Começar a estudar Java
  - [ ] Assista ao curso
  - [ ] Faça anotações
  - [ ] Faça os projetos sozinho
